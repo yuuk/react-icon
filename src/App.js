@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components'
+
 import * as icons from './icons'
-import Header from './components/Header'
 import IconWrapper from './components/IconWrapper'
 
 const Container = styled.ul`
@@ -17,8 +17,6 @@ const Container = styled.ul`
 class List extends React.Component {
   render() {
     return (
-      <div>
-        <Header/>
         <Container>
           {
             Object.keys(icons)
@@ -33,7 +31,6 @@ class List extends React.Component {
               })
           }
         </Container>
-      </div>
     )
   }
 }
