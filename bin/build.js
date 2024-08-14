@@ -81,8 +81,7 @@ const generateIconCode = async ({name}) => {
   });
 
   fs.writeFileSync(destination, component, 'utf-8');
-
-  console.log('Successfully built', ComponentName);
+  console.log('Build Successfully', ComponentName);
   return {ComponentName, name: names.name}
 }
 

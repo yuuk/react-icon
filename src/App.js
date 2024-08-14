@@ -1,8 +1,9 @@
 import React from 'react';
 import styled from 'styled-components'
 
+import IconWrapper from './components/icon-wrapper'
 import * as icons from './icons'
-import IconWrapper from './components/IconWrapper'
+
 
 const Container = styled.ul`
   display: grid;

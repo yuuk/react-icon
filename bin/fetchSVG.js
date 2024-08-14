@@ -90,7 +90,7 @@ client.file(fileId)
   })
   .then(components => {
     return ensureDir(join(options.outputDir))
-      .then(() => writeFile(resolve(options.outputDir, 'data.json'), JSON.stringify(components), 'utf8'))
+      .then(() => writeFile(resolve(options.outputDir, 'data.json'), JSON.stringify(components, null, 4), 'utf8'))
       .then(() => components)
   })
   .then(components => {

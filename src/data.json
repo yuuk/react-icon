@@ -1,3 +1,92 @@
 {
-  "name": "react-icon"
+    "10810:314": {
+        "name": "duty-free-shopping",
+        "id": "10810:314",
+        "key": "7c864c2308d64aaa6e2074b8d2ed7ebd7e6dafe2",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 48,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/73e37a6b-f4bb-4db7-ae5b-d7860d382ebc"
+    },
+    "10810:315": {
+        "name": "instax-tax-refund",
+        "id": "10810:315",
+        "key": "1bb11a051714b21dd99f62ef99a7c2473be4736d",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 48,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2bb22b3b-33eb-4a9c-9541-9a0c37296324"
+    },
+    "10810:316": {
+        "name": "authentic",
+        "id": "10810:316",
+        "key": "c11a7bcddfaed399ad147a90a7dc1464d8131bd9",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 48.00000762939453,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/787a6b38-95fc-411d-9661-ef42db052245"
+    },
+    "10810:317": {
+        "name": "global-guarantee",
+        "id": "10810:317",
+        "key": "057d457949afaa805ac04879e90ba51999140d9c",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 48.00000762939453,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/088df7c3-34e5-4eb1-b36f-498cd6ccdcff"
+    },
+    "10810:318": {
+        "name": "beauty-concierge-service",
+        "id": "10810:318",
+        "key": "c3bff0624c9a776c1d2018c3fc8a31ae7648a4aa",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 47.99998474121094,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad1a727e-2cdc-4542-bb46-2e61a8217b5e"
+    },
+    "10810:320": {
+        "name": "spa-massage",
+        "id": "10810:320",
+        "key": "d2210535463e3c366efd05309d0a6eab1c5139e6",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 47.99998474121094,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d639e202-9756-4602-8a11-f3c09d898847"
+    },
+    "10810:321": {
+        "name": "member-exclsuive-delivery",
+        "id": "10810:321",
+        "key": "1c81bb388958f7688234ebffb9a8d71d8f39465b",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 47.99998474121094,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d215d4d6-43f4-4724-be30-1e0843412feb"
+    },
+    "10810:322": {
+        "name": "click-collect",
+        "id": "10810:322",
+        "key": "700c60aeb96229beca3fabbb0cd99239c1a0038d",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 47.999942779541016,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad6d4255-469c-4806-8708-2103e889430d"
+    },
+    "10810:323": {
+        "name": "personal-shopper",
+        "id": "10810:323",
+        "key": "d96c0ea82969673c8c53fd30024e0742e9f3f700",
+        "file": "CVVdjRQrQdqLRS5cXXeVWz",
+        "description": "",
+        "width": 48,
+        "height": 48.000030517578125,
+        "image": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b4df1e5e-ed41-4942-805e-87ba4026d8f1"
+    }
 }
