@@ -2,8 +2,8 @@
   "name": "@yuuuk/react-icon",
   "version": "1.0.4",
   "description": "Icon automation workflow with Figma",
-  "main": "dist/juuust-react-icon.cjs.js",
-  "module": "dist/juuust-react-icon.esm.js",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
   "typings": "dist/icons.d.ts",
   "files": [
     "dist"
